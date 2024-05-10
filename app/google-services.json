@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943176119315",
+    "project_id": "raed-notes",
+    "storage_bucket": "raed-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943176119315:android:7d873a34c5c40e6dfafbe6",
+        "android_client_info": {
+          "package_name": "com.example.raednotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTc7vwAqFp5uIIUN6_oJxXIELdIdyKtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
